@@ -1,0 +1,17 @@
+1.0	quick brown fox	jumped over	lazy dog
+1.0	fox	jumped over	dog
+1.0	quick fox	jumped over	dog
+1.0	quick brown fox	jumped over	dog
+1.0	brown fox	jumped over	lazy dog
+1.0	brown fox	jumped over	dog
+1.0	quick fox	jumped over	lazy dog
+1.0	fox	jumped over	lazy dog
+0.3333333333333333	activists	Children among	dead
+1.0	Children	say	activists
+0.3333333333333333	activists	Children among	dead in Myanmar airstrikes
+0.3333333333333333	activists	Children among	dead in Myanmar military airstrikes
+1.0	Andy	likes	play with Justin
+1.0	Andy	likes	play
+1.0	Andy	likes	to play with Justin
+1.0	Andy	likes	to play
+1.0	Andy	play with	Justin
