@@ -35,3 +35,7 @@
 4. 20210416 파일
 
 word2vec을 사용해서 fact-check를 진행하고자 하는 object간의 relation에 원래 단어와는 다른 단어가 들어온 경우, 비슷한 단어를 찾는 과정
+
+5. Transformer
+
+https://www.youtube.com/watch?v=AA621UofTUA  
