@@ -39,3 +39,8 @@ word2vec을 사용해서 fact-check를 진행하고자 하는 object간의 relat
 5. Transformer
 
 https://www.youtube.com/watch?v=AA621UofTUA  
+
+6. LSTM   
+
+https://www.youtube.com/watch?v=mtVQpQBb30E    
+https://github.com/minsuk-heo/tf2/blob/master/jupyter_notebooks/10.Word2Vec_LSTM.ipynb   
