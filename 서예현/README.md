@@ -43,4 +43,7 @@ https://www.youtube.com/watch?v=AA621UofTUA
 6. LSTM   
 
 https://www.youtube.com/watch?v=mtVQpQBb30E    
-https://github.com/minsuk-heo/tf2/blob/master/jupyter_notebooks/10.Word2Vec_LSTM.ipynb   
+https://github.com/minsuk-heo/tf2/blob/master/jupyter_notebooks/10.Word2Vec_LSTM.ipynb      
+
+https://www.youtube.com/watch?v=64qSgA66P-8 - word2vec 영상    
+https://www.youtube.com/watch?v=m2cg32uEeZw - LSTM 영상     
