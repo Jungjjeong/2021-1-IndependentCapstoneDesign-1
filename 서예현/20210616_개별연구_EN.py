@@ -1,9 +1,9 @@
 # Python 3.8.8 ('base':conda)
 
 # Basic Idea
-# 크롤링 된 기사를 './input_text' 파일에 넣고 이 파일을 돌리면
+# 크롤링 된 기사를 './input_text_EN' 파일에 넣고 이 파일을 돌리면
 # noun verb noun (구분 기준: space)
-# 의 형태로 './relation' 파일에 텍스트 파일이 저장
+# 의 형태로 './relation_EN' 파일에 텍스트 파일이 저장
 
 
 import nltk
@@ -21,25 +21,23 @@ def get_relation(words):
   pos_tagged_final = []
 
   pos_tagged.append(nltk.pos_tag(words))
+  # print(pos_tagged[0][:5])
 
   for i in range(len(nltk.pos_tag(words))):
     pos_tagged2.append(list(pos_tagged[0][i]))
+  # print(pos_tagged2[:5])
 
   for i in range(len(pos_tagged2)):
     if pos_tagged2[i][1] == 'NN' or pos_tagged2[i][1] == "NNS" or pos_tagged2[i][1] == "VBN" or pos_tagged2[i][1] == "VBZ" or pos_tagged2[i][1] == "VBP" or pos_tagged2[i][1] == "VB" or pos_tagged2[i][1] == "VBD":
       pos_tagged_final.append(pos_tagged2[i])
-  # print(pos_tagged_final)
+  # print(pos_tagged_final[:5])
 
   relation = []
-  # print(len(pos_tagged_final))
-
-
 
   ## Extracting Relation in N V N form
   for i in range(len(pos_tagged_final)):
     relate = []
     if pos_tagged_final[i][1] == "VBN" or pos_tagged_final[i][1] == "VBZ" or pos_tagged_final[i][1] == "VBP" or pos_tagged_final[i][1] == "VB" or pos_tagged_final[i][1] == "VBD":
-      # print(i)
       if i <= 1:
         if pos_tagged_final[0][1] == "VBN" or pos_tagged_final[0][1] == "VBZ" or pos_tagged_final[0][1] == "VBP" or pos_tagged_final[0][1] == "VB" or pos_tagged_final[0][1] == "VBD":
           relate.append(pos_tagged_final[1][0])
@@ -97,7 +95,7 @@ def get_relation(words):
         relation.append(relate)
         relate = []
 
-  print(relation[:5])     
+  # print(relation[:5])     
 
 
   ## save the relation array as a text file
@@ -105,9 +103,9 @@ def get_relation(words):
 
 
 
-## place the text file you want to extract relation in to "./input_text" file
+## place the text file you want to extract relation in to "./input_text_EN" file
 ## write the name of the text file 
-f = open(r'./input_text/5.txt')
+f = open(r'./input_text_EN/5.txt')
 text = f.read() 
 f.close()
 
