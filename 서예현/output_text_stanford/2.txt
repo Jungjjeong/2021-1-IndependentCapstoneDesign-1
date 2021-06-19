@@ -1,0 +1,123 @@
+1.0	K 12 public schools	will hold moment according	bill
+1.0	K 12 schools	will hold moment according	bill signed into law Monday
+1.0	K 12 public schools	will hold moment according	bill signed Monday by Gov. Ron DeSantis
+1.0	K 12 public schools	will hold moment at	start
+1.0	K 12 public schools	will hold	moment
+1.0	K 12 public schools	will hold moment at	start of day starting next school year
+1.0	K 12 schools	will hold moment at	start
+1.0	K 12 public schools	will hold moment according	bill signed into law Monday by Gov. Ron DeSantis
+1.0	K 12 schools	will hold moment at	start of day starting school year
+1.0	K 12 schools	will hold moment according	bill signed Monday
+1.0	K 12 schools	will hold moment at	start of day starting next school year
+1.0	K 12 public schools	is in	Florida
+1.0	K 12 public schools	will hold moment according	bill signed into law Monday
+1.0	K 12 schools	will hold moment according	bill signed into law Monday by Gov. Ron DeSantis
+1.0	K 12 schools	will hold moment according	bill
+1.0	K 12 schools	will hold	moment
+1.0	K 12 schools	will hold moment at	start of day
+1.0	K 12 public schools	will hold moment at	start of day starting school year
+1.0	K 12 schools	will hold moment according	bill signed Monday by Gov. Ron DeSantis
+1.0	K 12 schools	will hold	moment of silence
+1.0	K 12 public schools	will hold	moment of silence
+1.0	K 12 public schools	will hold moment at	start of day
+1.0	K 12 public schools	will hold moment according	bill signed Monday
+1.0	HB 529	is in	Florida legislature
+1.0	teachers	is in	first period classrooms
+1.0	HB 529	principals of	public school
+1.0	student	engage during	moment of silence
+1.0	student	engage in during	moment of silence
+1.0	student	engage in during	moment
+1.0	student	engage during	moment
+1.0	period	was	optional
+1.0	period	was	optional for school districts in state
+1.0	period	was optional prior	prior new law
+1.0	period	was optional for	school districts
+1.0	period	was optional in	state
+1.0	period	was optional prior	prior law
+0.5480663389436716	It	has	important
+1.0	Shul	is in	Surfside
+1.0	governor	signing	bill at Shul
+1.0	Republican governor	signing	bill at Shul of Bal Harbour in Surfside
+1.0	Republican governor	signing	bill at Shul in Surfside
+1.0	governor	signing	bill at Shul of Bal Harbour
+1.0	governor	signing	bill at Shul in Surfside
+1.0	Republican governor	signing	bill at Shul of Bal Harbour
+1.0	they	see	fit
+1.0	governor	signing	bill
+1.0	Republican governor	signing	bill
+1.0	Republican governor	signing	bill at Shul
+1.0	governor	signing	bill at Shul of Bal Harbour in Surfside
+1.0	bill	was sponsored by	Republican state Rep. Randy Fine
+1.0	bill	passed state House in	March
+1.0	bill	was sponsored by	state Rep. Randy Fine
+1.0	bill	passed state House with	vote of 94 24
+1.0	bill	passed	state House
+1.0	bill	passed state House with	vote
+1.0	requirement	goes at_time	July 1
+1.0	Opponents	criticized bill as	requiring prayer including Democrat State Rep. Omari Hardy
+1.0	Opponents	criticized bill as	requiring prayer including Democrat State Rep. Omari
+1.0	Opponents	criticized bill as	prayer in schools
+1.0	Opponents	criticized bill as	requiring prayer in schools including Democrat State Rep. Omari
+1.0	Opponents	criticized bill as	prayer including Democrat State Rep. Omari Hardy
+1.0	Opponents	criticized bill as	prayer in schools including Democrat State Rep. Omari
+1.0	Opponents	criticized bill as	requiring prayer
+1.0	Opponents	criticized bill as	prayer including Democrat State Rep. Omari
+1.0	Opponents	criticized bill as	requiring prayer in schools including Democrat State Rep. Omari Hardy
+1.0	Opponents	criticized	bill
+1.0	Opponents	criticized bill as	prayer in schools including Democrat State Rep. Omari Hardy
+1.0	Opponents	criticized bill as	requiring prayer in schools
+1.0	Opponents	criticized bill as	prayer
+1.0	requiring prayer	is in	schools
+1.0	that prayer	is in	school
+0.547796596112961	you	question	their motives
+0.0323937847648593	it	has	called
+0.5274596616478228	it	's called	personal attack
+0.5274596616478228	it	's called	attack
+1.0	it	deemed out	order
+0.5349872040813399	Trump administration	also drawing criticism from	groups
+0.9861519776817012	Trump administration	updating guidance in	schools aimed at religious freedom
+0.9861519776817012	Trump administration	updating guidance in	public schools aimed at religious freedom
+0.5349872040813399	Trump administration	drawing criticism from	groups
+0.9861519776817012	Trump administration	updating	guidance for prayer
+0.9861519776817012	Trump administration	updating guidance in	schools aimed at protecting freedom
+0.9861519776817012	Trump administration	updating guidance in	public schools
+0.9861519776817012	Trump administration	updating guidance in	public schools aimed at protecting freedom
+0.9861519776817012	Trump administration	updating guidance in	schools aimed at freedom
+0.9861519776817012	Trump administration	updating guidance in	schools aimed
+0.9861519776817012	Trump administration	updating guidance in	public schools aimed
+0.9861519776817012	Trump administration	updating guidance in	schools
+0.9861519776817012	Trump administration	updating	guidance
+0.5349872040813399	Trump administration	criticism from	groups
+0.9861519776817012	Trump administration	updating guidance in	public schools aimed at freedom
+0.5349872040813399	Trump administration	also drawing criticism from	nonprofit groups
+0.9861519776817012	Trump administration	updating	federal guidance for prayer
+0.9861519776817012	Trump administration	updating	federal guidance
+0.9861519776817012	Trump administration	updating guidance in	schools aimed at protecting religious freedom
+0.5349872040813399	Trump administration	criticism from	nonprofit groups
+0.5349872040813399	Trump administration	drawing criticism from	nonprofit groups
+0.9861519776817012	Trump administration	updating guidance in	public schools aimed at protecting religious freedom
+1.0	initiatives	support	Jewish community in Florida including security funding for state 's Jewish Day Schools
+1.0	community	is in	Florida
+1.0	initiatives	support	community in Florida including security funding
+1.0	initiatives	support	community including security funding
+1.0	initiatives	support	Jewish community including security funding
+1.0	state	for	Jewish Day Schools
+1.0	initiatives	support	Jewish community in Florida including security funding
+1.0	initiatives	support	community in Florida
+1.0	Holocaust Memorial	for $ is	$ 100,000
+1.0	initiatives	support	community including security funding for state 's Day Schools
+1.0	initiatives	support	community including security funding for state 's Jewish Day Schools
+1.0	initiatives	support	Jewish community
+1.0	initiatives	support	Jewish community including security funding for state 's Jewish Day Schools
+1.0	DeSantis	emphasized	initiatives
+1.0	initiatives	support	community
+1.0	initiatives	support	Jewish community in Florida including security funding for state 's Day Schools
+1.0	initiatives	support	community in Florida including security funding for state 's Jewish Day Schools
+1.0	DeSantis	also emphasized	initiatives
+1.0	initiatives	support	Jewish community in Florida
+1.0	initiatives	support	Jewish community including security funding for state 's Day Schools
+1.0	initiatives	support	community in Florida including security funding for state 's Day Schools
+1.0	Florida Holocaust Museum	is in	St. Petersburg
+1.0	Holocaust Memorial	is in	Miami Beach
+1.0	He	signed into	law HB 805
+1.0	He	also signed into	law HB 805

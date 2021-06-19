@@ -47,3 +47,7 @@ https://github.com/minsuk-heo/tf2/blob/master/jupyter_notebooks/10.Word2Vec_LSTM
 
 https://www.youtube.com/watch?v=64qSgA66P-8 - word2vec 영상    
 https://www.youtube.com/watch?v=m2cg32uEeZw - LSTM 영상     
+
+7. 관계 추출   
+
+nltk를 사용하여 tokenization, PoS Tagging을 이용한 주어와 동사 간의 관계 이어주는 방법으로 관계 추출
