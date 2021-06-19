@@ -1,0 +1,9 @@
+1.0	CNN 's Poppy Harlow	discuss	emails
+1.0	Justice Department	challenge	results of 2020 election
+1.0	Elie Honig	discuss	new emails
+1.0	Justice Department	challenge	results
+1.0	CNN	has	Poppy Harlow
+1.0	Elie Honig	discuss	emails
+1.0	CNN 's Poppy Harlow	discuss	new emails
+1.0	his allies	pressured	Justice Department
+1.0	former President Donald Trump	pressured	Justice Department

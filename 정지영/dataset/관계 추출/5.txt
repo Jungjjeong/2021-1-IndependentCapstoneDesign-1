@@ -1,0 +1,311 @@
+1.0	Justice Department	do	his bidding
+1.0	secret trove	released at_time	Tuesday
+1.0	former President Donald Trump	pressured Justice Department on	multiple fronts
+1.0	former President Donald Trump	pressured Justice Department on	fronts
+1.0	trove	released at_time	Tuesday
+1.0	former President Donald Trump	pressured	Justice Department
+1.0	Trump	has	efforts
+1.0	White House assistant	chief of	staff
+1.0	Trump	has	chief of staff
+1.0	acting attorney general	is in	final weeks of Trump 's presidency
+1.0	Jeffrey Rosen	were carried out through	Trump 's chief of staff
+1.0	Trump	of	presidency
+1.0	Jeffrey Rosen	were carried out through	White House assistant
+1.0	Jeffrey Rosen	were carried out through	Trump 's chief
+1.0	Rosen	investigate	outlandish claims of voter fraud
+1.0	longshot lawsuit	overturn	election results
+1.0	outlandish claims	sign	longshot lawsuit to try
+1.0	claims	sign	onto longshot lawsuit try
+1.0	outlandish claims	sign	onto longshot lawsuit to try
+1.0	Rosen	investigate	outlandish claims
+1.0	outlandish claims	sign	longshot lawsuit try
+1.0	claims	sign	longshot lawsuit to try
+1.0	Rosen	investigate	claims
+1.0	Rosen	investigate	claims of voter fraud
+1.0	his allies	pushed	Rosen
+1.0	outlandish claims	sign	onto longshot lawsuit try
+1.0	claims	sign	longshot lawsuit try
+1.0	Trump	pushed	Rosen
+1.0	claims	sign	onto longshot lawsuit to try
+1.0	Trump	has	pressure on Justice Department
+1.0	it	comes to	investigations
+1.0	wall	was often broken down during	Trump presidency
+1.0	special counsel Robert Mueller	has	investigation
+1.0	wall	was broken down during	Trump presidency
+1.0	Emails	are	perhaps most overt show
+1.0	Emails	are	perhaps overt show of politicization
+1.0	Emails	are	show
+1.0	Emails	are	perhaps overt show
+1.0	Emails	are	overt show
+1.0	Emails	are	overt show of politicization
+1.0	Emails	are	perhaps show
+1.0	Emails	are	most overt show of politicization
+0.6620620561605799	Emails	showing	Trump allies
+1.0	Emails	are	show of politicization
+1.0	Emails	are	most overt show
+1.0	Emails	are	perhaps show of politicization
+1.0	Emails	are	perhaps most overt show of politicization
+1.0	Trump 's White House assistant	sent	email
+1.0	email	is with	subject line From POTUS
+1.0	Trump	has	White House assistant
+0.9501836539337704	Michigan county 's election results	being	fraudulent
+1.0	Trump 's White House assistant	sent	email with subject line
+0.7333081485329837	Michigan county 's election results	being	fraudulent
+0.7333081485329837	Michigan county 's election results	being	about fraudulent
+1.0	Michigan county	has	election results
+1.0	Trump 's White House assistant	sent	email with subject line From POTUS
+1.0	Trump 's White House assistant	sent email In	4:57 p.m. ET email
+1.0	Trump 's White House assistant	sent	Rosen
+0.9501836539337704	Michigan county 's election results	being	about fraudulent
+1.0	Trump 's White House assistant	sent	email with line From POTUS
+1.0	Trump 's White House assistant	sent	email with line
+1.0	Trump 's White House assistant	sent email In	4:57 p.m. ET email on December 14
+1.0	he	back	his claims
+1.0	Attorney General William Barr	leaving Justice Department at_time	month
+1.0	election	was	stolen
+1.0	Trump	has	hope on voter fraud
+1.0	Rosen	would take over for	him
+1.0	Trump 's assistant	sent	his acting deputy
+1.0	Trump	has	assistant
+1.0	Trump 's assistant	sent email with	draft lawsuit Justice Department sign
+1.0	Trump 's assistant	sent email with	draft lawsuit for Justice Department to sign
+1.0	Trump 's assistant	sent	Richard Donoghue
+1.0	his	deputy	Richard Donoghue
+1.0	Trump 's assistant	sent email on	December 29
+1.0	Trump 's assistant	sent email with	draft lawsuit Justice Department to sign
+1.0	Trump 's assistant	sent email with	draft lawsuit for Justice Department sign
+1.0	Trump 's assistant	sent	Rosen
+1.0	Trump 's assistant	sent	email
+1.0	Trump 's assistant	sent	his deputy
+1.0	effort	toss	election results
+1.0	It	was modeled	after effort led
+1.0	It	was modeled	after effort led by Texas ' attorney general
+1.0	effort	led by	Texas ' attorney general
+1.0	It	was modeled	effort led
+1.0	effort	toss election results in	four states
+1.0	It	was	modeled
+1.0	It	was modeled	effort led by Texas ' attorney general
+1.0	private attorney	emailed Rosen at_time	same day
+1.0	he	had	had directed by Trump
+1.0	attorney	emailed Rosen at_time	day
+1.0	he	had	saying had directed by Trump
+1.0	he	meet about	longshot legal effort
+1.0	private attorney	emailed Rosen at_time	day
+1.0	attorney	emailed Rosen at_time	same day
+1.0	he	meet about	longshot effort
+1.0	he	meet with	Rosen
+1.0	Rosen	debunked	videos vote
+1.0	forwarding Rosen	debunked	videos vote
+1.0	forwarding Rosen	debunked	videos about vote
+1.0	White House chief Mark Meadows	picked up	campaign
+1.0	Rosen	debunked	videos about vote
+1.0	Rosen	debunked	videos
+1.0	forwarding Rosen	debunked	videos
+1.0	Trump 's attorneys	held	press conferences
+1.0	avenue	legitimize	their claims In weeks
+1.0	hacked voting systems	change	votes
+1.0	Trump 's attorneys	made	false claims about election
+1.0	his lawyers	saw	DOJ
+1.0	Trump 's attorneys	held	wild press conferences
+1.0	avenue	legitimize	their claims
+1.0	voting systems	change	votes
+1.0	Trump	has	attorneys
+1.0	avenue	legitimize	their claims In weeks after 2020 election
+1.0	Trump	saw	DOJ
+1.0	Trump 's attorneys	made	false claims
+1.0	their claims	is In	weeks after 2020 election
+1.0	they	enlist Justice Department in	their efforts
+1.0	they	enlist	Justice Department
+1.0	they	were trying Behind	scenes
+1.0	they	failed in	state court system
+1.0	claims	were	debunked
+1.0	they	failed again in	state court system
+1.0	claims	were	widely debunked
+1.0	emails show	could give	them
+1.0	new emails show	could give	credibility
+1.0	emails show	could give	credibility
+1.0	new emails show	could give	them
+1.0	they	sought	try
+1.0	his allies	hoped	Justice Department
+1.0	they	sought	to try
+1.0	Trump	hoped	Justice Department
+1.0	Trump 's assistant	forwarded	Rosen
+1.0	Trump	has	assistant
+1.0	courts	legitimize	their disinformation
+1.0	Trump 's team	use	courts
+1.0	Trump 's legal team	use	courts
+1.0	It	has	strategy
+1.0	courts	legitimize	their disinformation about election
+1.0	Trump	has	legal team
+0.5104902475130778	Rosen	resisted	Trump
+1.0	Rosen	embrace	Trump 's claims of voter fraud
+1.0	emails	include	Attorney General Jeffrey Clark
+1.0	Rosen	embrace	Trump 's claims
+1.0	one	from correspondents is	assistant Attorney General Jeffrey Clark
+1.0	emails	include	correspondents
+1.0	emails	include	correspondents from one of Trump 's allies inside Justice Department
+1.0	emails	include	assistant Attorney General Jeffrey Clark
+1.0	emails	include	correspondents from one of Trump 's allies
+1.0	emails	include	correspondents from one Trump 's allies
+1.0	Rosen	embrace	Trump 's claims of voter fraud in Georgia
+1.0	Trump	has	claims of voter fraud in Georgia
+1.0	Trump	of	allies inside Justice Department
+1.0	emails	include	correspondents from one Trump 's allies inside Justice Department
+1.0	New York Times	reported in	January
+1.0	voter fraud	is in	Georgia
+1.0	he	had spoken to	people
+1.0	Meadows	directed	Rosen
+1.0	he	had spoken to	people in Georgia
+1.0	Clark	told Rosen on	January 2
+1.0	Georgia fraud	claims on	January 1
+1.0	people	is in	Georgia
+1.0	Clark	told	Rosen
+1.0	Rosen	were presenting	their arguments about election fraud to Trump in White House
+1.0	election fraud	is in	White House
+1.0	Rosen	were presenting	their arguments
+1.0	Rosen	were presenting	their arguments about election fraud to Trump
+1.0	Rosen	were presenting	their arguments about election fraud in White House
+1.0	Rosen	were presenting	their arguments about election fraud
+1.0	Rosen	has	threat
+1.0	Deputy Attorney General Patrick Hovakimian	wrote at_time	night
+1.0	It	sounds	won
+1.0	Associate Deputy Attorney General Patrick Hovakimian	wrote at_time	night
+1.0	It	sounds like	Rosen
+1.0	he	cross	Trump 's attorney Rudy Giuliani
+1.0	he	cross	Trump 's personal attorney Rudy Giuliani
+1.0	Trump	about	claims on election fraud
+1.0	Trump	has	personal attorney
+1.0	Trump	has	lies
+1.0	Meadows	be go between	between Giuliani 's team
+1.0	Meadows	appeared	go between between Giuliani 's team
+1.0	Meadows	appeared	go
+1.0	Meadows	appeared	to go between between Giuliani 's team
+1.0	Meadows	be	go
+1.0	Meadows	appeared	to go
+1.0	He	forwarded email from	attorney
+1.0	He	forwarded	email
+1.0	He	forwarded email from	Cleta Mitchell
+1.0	fraud	is in	Georgia
+1.0	Meadows	also forwarded	Rosen
+1.0	Meadows	forwarded	video
+1.0	Meadows	forwarded	Rosen
+1.0	Meadows	also forwarded	video
+1.0	Meadows	forwarded	video claiming
+1.0	Meadows	also forwarded	video claiming
+1.0	meeting	is with	video maker
+1.0	he	was asked	meet
+1.0	Rosen	has	emails
+1.0	he	was asked	meet with Giuliani
+1.0	he	meet with	Giuliani
+1.0	he	was	asked
+1.0	Rosen 's emails	also make	clear
+1.0	he	was asked	to meet with Giuliani
+1.0	he	was asked	to meet
+1.0	Rosen 's emails	make	clear
+1.0	Democrats	sought	records
+1.0	Garland 's DOJ	walks	line dealing
+1.0	Garland 's DOJ	walks	fine line dealing
+1.0	Garland 's DOJ	walks	line dealing with Trump controversies
+1.0	Garland 's DOJ	walks	fine line dealing with Trump controversies For two years
+1.0	Garland 's DOJ	walks	fine line
+1.0	House Oversight Committee	released at_time	Tuesday
+1.0	Democrats	sought	records from Trump administration
+1.0	Garland 's DOJ	walks	fine line dealing For two years
+1.0	Garland 's DOJ	walks	line dealing with Trump controversies For two years
+1.0	Garland	has	DOJ
+1.0	Garland 's DOJ	walks	line dealing For two years
+1.0	Garland 's DOJ	walks	line
+1.0	Democrats	sought records like	emails
+1.0	Garland 's DOJ	walks	fine line dealing with Trump controversies
+1.0	they	were	repeatedly stonewalled
+1.0	they	were	stonewalled
+1.0	documents	are beginning	to flow to Congress
+1.0	documents	Now are beginning	flow to Congress
+1.0	documents	are beginning	to flow
+1.0	documents	are beginning	flow to Congress
+1.0	documents	Now are beginning	to flow
+1.0	documents	flow to	Congress
+1.0	documents	Now are beginning under	Biden Justice Department
+1.0	documents	Now are beginning	to flow to Congress
+1.0	documents	are beginning under	Biden Justice Department
+1.0	documents	Now are beginning	flow
+1.0	documents	are beginning	flow
+1.0	Biden administration	sent host In	emails provided
+1.0	Biden administration	recently sent host In	emails provided to House Oversight Committee
+1.0	Biden administration	sent host In	emails related
+1.0	Biden administration	sent	host
+1.0	Biden administration	sent host In	emails related to January 6
+1.0	Biden administration	recently sent host to	House Transportation Committee
+1.0	Biden administration	recently sent host In	emails provided
+1.0	Biden administration	recently sent host In	emails related to January 6 provided
+1.0	Biden administration	recently sent host to	House Transportation Committee related to Trump International Hotel lease in Washington
+1.0	Biden administration	recently sent host In	emails related provided
+1.0	Biden administration	recently sent host In	emails related provided to House Oversight Committee
+1.0	Biden administration	sent host In	emails related to January 6 provided to House Oversight Committee
+1.0	Biden administration	sent host In	emails related to January 6 provided
+1.0	Biden administration	sent host to	House Transportation Committee related
+1.0	Biden administration	recently sent host In	emails related to January 6 provided to House Oversight Committee
+1.0	Biden administration	sent host In	emails
+1.0	Biden administration	sent host to	House Transportation Committee related to Trump International Hotel lease
+1.0	Biden administration	recently sent host to	House Transportation Committee related
+1.0	Biden administration	sent host In	emails related provided to House Oversight Committee
+1.0	Biden administration	recently sent host In	emails related
+1.0	Trump International Hotel lease	is in	Washington
+1.0	Biden administration	recently sent host In	emails
+1.0	Biden administration	sent host to	House Transportation Committee
+1.0	Biden administration	recently sent host to	House Transportation Committee related to Trump International Hotel lease
+1.0	Biden administration	recently sent	host of documents
+1.0	Biden administration	sent host In	emails related provided
+1.0	Biden administration	sent host to	House Transportation Committee related to Trump International Hotel lease in Washington
+1.0	Biden administration	sent	host of documents
+1.0	Biden administration	recently sent	host
+1.0	Biden administration	recently sent host In	emails related to January 6
+1.0	Biden administration	sent host In	emails provided to House Oversight Committee
+1.0	Biden DOJ	also brokered	agreement for former White House counsel Don McGahn to testify before House Judiciary Committee
+1.0	Biden DOJ	brokered	agreement for former White House counsel Don McGahn to testify before House Judiciary Committee
+1.0	Biden DOJ	brokered	agreement for former White House counsel Don McGahn testify before House Judiciary Committee
+1.0	Biden DOJ	brokered	agreement for former White House counsel Don McGahn testify
+1.0	Biden DOJ	also brokered	agreement for former White House counsel Don McGahn to testify
+1.0	Biden DOJ	also brokered	agreement former White House counsel Don McGahn to testify
+1.0	Biden DOJ	also brokered	agreement for former White House counsel Don McGahn testify
+1.0	Biden DOJ	also brokered	agreement former White House counsel Don McGahn testify
+1.0	Biden DOJ	also brokered	agreement former White House counsel Don McGahn testify before House Judiciary Committee
+1.0	Biden DOJ	brokered	agreement former White House counsel Don McGahn to testify before House Judiciary Committee
+1.0	Biden DOJ	brokered	agreement former White House counsel Don McGahn testify
+1.0	Biden DOJ	brokered	agreement former White House counsel Don McGahn testify before House Judiciary Committee
+1.0	Biden DOJ	also brokered	agreement former White House counsel Don McGahn to testify before House Judiciary Committee
+1.0	Biden DOJ	brokered	agreement former White House counsel Don McGahn to testify
+1.0	Biden DOJ	brokered	agreement for former White House counsel Don McGahn to testify
+1.0	Biden DOJ	also brokered	agreement for former White House counsel Don McGahn testify before House Judiciary Committee
+1.0	judge 's ruling	release	memo written
+1.0	Democrats ' attempt	obtain	Trump 's tax returns
+1.0	judge 's ruling	release	full memo written to Barr
+1.0	judge	has	ruling
+1.0	judge 's ruling	release	memo
+1.0	obstruction	is in	Mueller investigation
+1.0	Justice Department	is appealing	judge 's ruling
+1.0	judge 's ruling	release	full memo written
+1.0	judge 's ruling	release	memo written to Barr
+1.0	Trump	has	tax returns
+1.0	judge 's ruling	release	full memo
+1.0	Democrats	keep	pressing
+1.0	Trump administration	about	controversies
+1.0	pressing	unearth	more about Trump administration 's controversies
+1.0	pressing	unearth	more
+1.0	It	has	balancing act
+1.0	Garland Justice Department	balance	desire for transparency
+1.0	it	be	particularly could soon Republicans
+1.0	it	be	particularly could Republicans
+1.0	it	be	when could soon Republicans
+0.8203777882090207	it	seeking	documents
+0.8203777882090207	it	seeking	documents from Biden administration
+1.0	could Republicans	seeking	documents
+1.0	they	win back House at_time	year
+1.0	they	win back House at_time	next year
+1.0	it	be	when could Republicans
+1.0	it	be	particularly when could soon Republicans
+1.0	could Republicans	seeking	documents from Biden administration
+1.0	Garland Justice Department	balance	desire
+1.0	it	be	could Republicans
+1.0	it	be	could soon Republicans
+1.0	it	be	particularly when could Republicans
