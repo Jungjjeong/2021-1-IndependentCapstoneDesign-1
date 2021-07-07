@@ -9,7 +9,7 @@
 Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
 
 
-## Built With / 누구랑 만들었나요?k
+## Built With / 누구랑 만들었나요?
 * [정지영](https://github.com/Jungjjeong) 
 * [김윤지](https://github.com/wendyunji)
 * [서예현](https://github.com/justbeaver97) 
