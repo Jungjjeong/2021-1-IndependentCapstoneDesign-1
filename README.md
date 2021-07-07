@@ -11,7 +11,6 @@ Add additional notes about how to deploy this on a live system / 라이브 시�
 
 ## Built With / 누구랑 만들었나요?k
 * [정지영](https://github.com/Jungjjeong) 
-* [김윤지]
+* [김윤지](https://github.com/wendyunji)
 * [서예현](https://github.com/justbeaver97) 
-* [정현성](https://github.com/Gringreem) 
-
+* [박상준](https://github.com/sangjun0412) 
